@@ -7,7 +7,7 @@ public class ObjectTraining {
     public ObjectTraining(String name, int age) {
         this.name = name;
         this.age = age;
-        this.wilder = false;
+        this.wilder = true;
     }
 
     public String getName() {
@@ -24,7 +24,7 @@ public class ObjectTraining {
         this.age = age;
     }
 
-    public boolean getWilder() {
+    public boolean isWilder() {
         return wilder;
     }
 

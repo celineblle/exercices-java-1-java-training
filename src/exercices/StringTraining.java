@@ -167,7 +167,6 @@ int lastCharacter = string.length() - 1;
                 if(!!isItSearchString) {
 
                     finalChar = finalChar.concat(replace);
-                    System.out.println(finalChar);
                     i = i + j - 1;
                 }
 

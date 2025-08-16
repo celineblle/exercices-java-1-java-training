@@ -10,7 +10,7 @@ public class LoopTraining {
 
     /**
      * @param values, eg: {"a", "b", "c"}
-     * @return the concatenation of all values values, eg: "abc"
+     * @return the concatenation of all values, eg: "abc"
      */
     public static String concat(String[] values) {
         return "";
